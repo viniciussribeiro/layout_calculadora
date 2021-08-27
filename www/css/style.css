@@ -1,0 +1,15 @@
+.display {
+  margin-top: 20px;
+}
+
+.linha {
+  margin-top: 10px;
+}
+
+#fundoAmarelo {
+  background-color: yellow;
+}
+
+.btn {
+  height: 120%;
+}
